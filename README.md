@@ -1,6 +1,6 @@
 # Handwritten-digit-classification-using-CNN
 
-tThis can predict handwritten
+This can predict handwritten
 digits from 0 to 9 where data set id directly imported from MNIST. As every
 person has different style of writing digits humans can recognize easily but for computer it is
 comparatively a difficult task so here neural network approach is used where in the machine
